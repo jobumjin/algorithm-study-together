@@ -23,7 +23,7 @@
 
 <br>
 
-## Commit Messeage Convention
+##  📧Commit Messeage Convention
 
 |**이름**|**내용**|**예시**|
 |------|---|---|
