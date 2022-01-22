@@ -1,5 +1,5 @@
 # 💻Algorithm-study-together
-We practice branch and merg by solving algorithms together.
+<p>We practice branch and merg by solving algorithms together.</p>
 ---
 
 
