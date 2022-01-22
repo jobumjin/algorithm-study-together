@@ -1,5 +1,6 @@
 # 💻Algorithm-study-together
 We practice branch and merg by solving algorithms together.
+---
 
 
 <p>알고리즘 스터디 방법</p>
