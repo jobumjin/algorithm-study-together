@@ -8,4 +8,4 @@ We practice branch and merg by solving algorithms together.
 <p>develop branch에 merge를 하기로 약속한다.</p>
 
 feature/
-따서 1일 알고리즘(<link href="https://solved.ac/class">백준 클래스</link>)이랑 프로그래머스
+따서 1일 알고리즘(<a href="https://solved.ac/class">백준 클래스)이랑 프로그래머스
