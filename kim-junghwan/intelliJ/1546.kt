@@ -11,7 +11,7 @@ fun main() {
     var arr = IntArray(n)
     var m = 0
     var sum = 0.00
-   \
+
     for (i in 1..n) {
         var score = scoreAll.nextToken().toInt()
         m = max(m, score)
