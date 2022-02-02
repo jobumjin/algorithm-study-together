@@ -6,23 +6,39 @@
 
 이 주어지면, 이들 중 최댓값은 85이고, 이 값은 8번째 수이다.*/
 
-fun main(){
+/*fun main(){
     var max=0
     var count=0
-    var return_cut=0
-    for(i in 1 .. 9)
+    for(i in 1 until 9)
     {
         var num:Int= readLine()!!.toInt()
-        count++
+
         if(max<num){
             max=num
-            return_cut=count
+           count=i
         }
 
     }
     println(max)
-    println(return_cut)
+    println(count)
 
 
 
+}*/
+
+fun main(args: Array<String>){
+
+    var maxNum = 0
+    var maxLine = 0
+
+    for (i in 0 until 9) {
+        val inputNum:Int = readLine()!!.toInt()
+
+        if (maxNum < inputNum) {
+            maxNum = inputNum
+            maxLine = i
+        }
+    }
+
+    println("$maxNum\n${maxLine + 1}")
 }
