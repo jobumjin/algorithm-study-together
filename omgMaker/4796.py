@@ -18,3 +18,5 @@ while True:
     else:
         result = (r1 * int(r3 / r2)) + is_big(r3 % r2, r1)
         print('Case ' + str(i) + ': ' + str(result))
+
+# test
